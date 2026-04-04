@@ -3,7 +3,11 @@ layout: profiles
 permalink: /people/
 title: people
 description: members of the lab or group
+<<<<<<< Updated upstream
 nav: false 
+=======
+nav: false
+>>>>>>> Stashed changes
 nav_order: 7
 
 profiles:
