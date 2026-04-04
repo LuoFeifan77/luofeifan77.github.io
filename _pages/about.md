@@ -20,11 +20,11 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true #true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+# latest_posts:
+#   enabled: true #true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
+# ---
 
 
 I am a third-year PhD student at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/), privileged to be supervised by Dr.[Hongyang Chen](https://scholar.google.com/citations?user=s-HDT8UAAAAJ&hl=en) and Prof.[Gang Chen](https://person.zju.edu.cn/en/0098112). My research lies at the intersection of Geometric Deep Learning and 3D Computer Vision, with a particular emphasis on the spectral analysis of non-rigid shapes. 
