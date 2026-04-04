@@ -26,8 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a PhD candidate at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/), and my research topic includes 3D Computer Vision & Graph Machine Learning & Geometric Deep Learning. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+I am a third-year PhD student at Zhejiang University, privileged to be supervised by Dr.[Hongyang Chen](https://scholar.google.com/citations?user=s-HDT8UAAAAJ&hl=en) and Prof.[Gang Chen](https://person.zju.edu.cn/en/0098112). My research lies at the intersection of Geometric Deep Learning and 3D Computer Vision, with a particular emphasis on the spectral analysis of non-rigid shapes. My current research trajectory is evolving toward the frontiers of 3D AIGC, World Models, and Vision-Language Models (VLMs). I am particularly passionate about bridging multi-modal language priors with intrinsic geometric structures. By leveraging the unique strengths of spectral methods in maintaining geometric consistency, I aim to develop generative frameworks and VLMs that achieve superior structural integrity in high-fidelity 3D content synthesis and robust environmental simulations.
+
+<!-- Hi, I am a PhD candidate at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/), and my research topic includes 3D Computer Vision & Graph Machine Learning & Geometric Deep Learning. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
