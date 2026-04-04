@@ -6,7 +6,12 @@
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year      = {2026},
   note      = {Accepted},
+  abstract={Although existing 3D perception algorithms have demonstrated significant improvements in performance, their deployment on edge devices continues to encounter critical challenges due to substantial runtime latency. We propose a new benchmark tailored for online evaluation by considering runtime latency. Based on the benchmark, we build a Latency-Aware 3D Streaming Perception (LASP) framework that addresses the latency issue through two primary components: 1) latency-aware history integration, which extends query propagation into a continuous process, ensuring the integration of historical feature regardless of varying latency; 2) latency-aware predictive detection, a module that compensates the detection results with the predicted trajectory and the posterior accessed latency. By incorporating the latency-aware mechanism, our method shows generalization across various latency levels, achieving an online performance that closely aligns with 80% of its offline evaluation on the Jetson AGX Orin without any acceleration techniques.},
+  selected={true},
+  preview={cvpr26.png},
+  pdf={https://arxiv.org/pdf/2603.23383},
 }
+
 
 
 @inproceedings{luo2026unsupervised,
@@ -16,7 +21,11 @@
   volume={40},
   number={9},
   pages={7662--7670},
-  year={2026}
+  year={2026},
+  abstract={Although existing 3D perception algorithms have demonstrated significant improvements in performance, their deployment on edge devices continues to encounter critical challenges due to substantial runtime latency. We propose a new benchmark tailored for online evaluation by considering runtime latency. Based on the benchmark, we build a Latency-Aware 3D Streaming Perception (LASP) framework that addresses the latency issue through two primary components: 1) latency-aware history integration, which extends query propagation into a continuous process, ensuring the integration of historical feature regardless of varying latency; 2) latency-aware predictive detection, a module that compensates the detection results with the predicted trajectory and the posterior accessed latency. By incorporating the latency-aware mechanism, our method shows generalization across various latency levels, achieving an online performance that closely aligns with 80% of its offline evaluation on the Jetson AGX Orin without any acceleration techniques.},
+  selected={true},
+  preview={aaai26.png},
+  pdf={https://ojs.aaai.org/index.php/AAAI/article/view/37708/41670},
 }
 
 
@@ -25,20 +34,13 @@
   author={Luo, Feifan and Li, Qinsong and Hu, Ling and Wang, Haibo and Xu, Haojun and Liu, Xinru and Liu, Shengjun and Chen, Hongyang},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2025},
-  publisher={IEEE}
+  publisher={IEEE},
+  abstract={Traditional deep functional map frameworks are widely used for 3D shape matching; however, many methods fail to adaptively capture the relevant frequency information required for functional map estimation in complex scenarios, leading to poor performance, especially under significant deformations. To address these challenges, we propose a novel unsupervised learningbased framework, Deep Frequency Awareness Functional Maps (DFAFM), specifically designed to tackle diverse shape-matching problems. Our approach introduces the Spectral Filter Operator Preservation constraint, which ensures the preservation of critical frequency information. These constraints promote frequency awareness by learning a set of spectral filters and incorporating them as a loss function to jointly supervise the functional maps, pointwise maps, and spectral filters. The spectral filters are constructed using orthonormal Jacobi polynomials with learnable coefficients, enabling adaptive and efficient frequency representation. Furthermore, we propose a refinement strategy that leverages the learned spectral filters and constraints to enhance the accuracy of the final pointwise map. Extensive experiments conducted on multiple benchmark datasets demonstrate that our method outperforms state-of-the-art approaches, particularly in challenging scenarios involving non-isometric deformations and inconsistent topology.},
+  selected={true},
+  preview={tvcg25.png},
+  pdf={https://ieeexplore.ieee.org/document/10945636}
 }
 
-
-@article{liu2024spectral,
-  title={Spectral descriptors for 3d deformable shape matching: A comparative survey},
-  author={Liu, Shengjun and Wang, Haibo and Yan, Dong-Ming and Li, Qinsong and Luo, Feifan and Teng, Zi and Liu, Xinru},
-  journal={IEEE transactions on visualization and computer graphics},
-  volume={31},
-  number={3},
-  pages={1677--1697},
-  year={2024},
-  publisher={IEEE}
-}
 
 
 @article{li2024deformable,
@@ -49,7 +51,10 @@
   number={7},
   pages={4885--4898},
   year={2024},
-  publisher={Springer}
+  publisher={Springer},
+  abstract={The functional maps framework has achieved remarkable success in non-rigid shape matching. However, the traditional functional map representations do not explicitly encode surface orientation, which can easily lead to orientation-reversing correspondence. The complex functional map addresses this issue by linking oriented tangent bundles to favor orientation-preserving correspondence. Nevertheless, the absence of effective restrictions on the complex functional maps hinders them from obtaining high-quality correspondences. To this end, we introduce novel and powerful constraints to determine complex functional maps by incorporating multiple complex spectral filter operator preservation constraints with a rigorous theoretical guarantee. Such constraints encode the surface orientation information and enforce the isometric property of the map. Based on these constraints, we propose a novel and efficient method to obtain orientation-preserving and accurate correspondences across shapes by alternatively updating the functional maps, complex functional maps, and pointwise maps. Extensive experiments demonstrate our significant improvements in correspondence quality and computing efficiency. In addition, our constraints can be easily adapted to other functional maps-based methods to enhance their performance.},
+  preview={tvcj24_complex_preservation.png},
+  pdf={https://link.springer.com/article/10.1007/s00371-024-03487-z}
 }
 
 
@@ -61,5 +66,8 @@
   number={4},
   pages={2537--2554},
   year={2024},
-  publisher={Springer}
+  publisher={Springer},
+  abstract={We construct a novel descriptor called anisotropic wavelet energy decomposition descriptor (AWEDD) for non-rigid shape analysis, based on anisotropic diffusion geometry. We first extend the Dirichlet energy of the vertex coordinate function to an anisotropic version, then use multiscale anisotropic spectral manifold wavelets to decompose the Dirichlet energy to all vertices and collect local energy at each vertex to form AWEDD. AWEDD simultaneously encodes multiscale extrinsic and intrinsic shape features, which are more informative and robust than purely intrinsic or extrinsic descriptors. And the introduction of anisotropy endows AWEDD with stronger abilities of feature discrimination and intrinsic symmetry identification. Our results demonstrate that AWEDD is more discriminative than current state-of-the-art descriptors. In addition, we show that AWEDD is an excellent choice of the initial inputs for various shape analysis approaches, such as functional map pipelines and deep convolutional architectures.},
+  preview={tvcj24_awedd.png},
+  pdf={https://link.springer.com/article/10.1007/s00371-023-02935-6}
 }

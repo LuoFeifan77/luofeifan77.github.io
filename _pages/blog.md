@@ -5,11 +5,11 @@ title: blog
 <<<<<<< Updated upstream
 nav: false 
 =======
-nav: false #true
+nav: true #true
 >>>>>>> Stashed changes
 nav_order: 1
 pagination:
-  enabled: false  #true
+  enabled: true  #true
   collection: posts
   permalink: /page/:num/
   per_page: 5
