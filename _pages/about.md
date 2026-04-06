@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: feifanluo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Yuquan Campus, Zhejiang University</p>
+    <p>Zhejiang University</p>
     <p>Hangzhou, China</p>
 
 selected_papers: true #true # includes a list of papers marked as "selected={true}"
