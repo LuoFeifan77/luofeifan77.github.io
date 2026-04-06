@@ -264,7 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Luo]
+  last_name: [Luo, "Luo<sup>*</sup>", "Luo<sup>†</sup>"]  # "YourLastName<sup>*&dagger;</sup>"
   first_name: [Feifan]
 
   style: apa
