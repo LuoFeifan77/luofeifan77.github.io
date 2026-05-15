@@ -1,0 +1,13 @@
+运行自动语法修复命令：
+
+npx prettier . --write
+
+
+# 运行命令
+```bash
+$ docker compose pull
+$ docker compose up
+```
+
+# 查看网页
+`http://localhost:8080`
