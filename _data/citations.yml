@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-22'
 papers:
   iCOpMr0AAAAJ:5nxA0vEk-isC:
     citations: 0
@@ -19,7 +19,7 @@ papers:
     year: '2025'
   iCOpMr0AAAAJ:Y0pCki6q_DkC:
     citations: 10
-    title: 'AWEDD: a descriptor simultaneously encoding multiscale extrinsic and intrinsic shape features'
+    title: 'AWEDD: a descriptor simultaneously encoding multiscale extrinsic and intrinsic shape features.'
     year: '2024'
   iCOpMr0AAAAJ:_FxGoFyzp5QC:
     citations: 10
