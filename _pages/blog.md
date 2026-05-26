@@ -2,11 +2,11 @@
 layout: default
 permalink: /blog/
 title: blog
-<<<<<<< Updated upstream
+#<<<<<<< Updated upstream
 nav: false 
-=======
-nav: true #true
->>>>>>> Stashed changes
+# =======
+# nav: true #true
+#>>>>>>> Stashed changes
 nav_order: 1
 pagination:
   enabled: true  #true

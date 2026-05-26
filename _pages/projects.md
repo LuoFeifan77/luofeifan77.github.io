@@ -3,11 +3,11 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-<<<<<<< Updated upstream
+# <<<<<<< Updated upstream
 nav: false 
-=======
-nav: false
->>>>>>> Stashed changes
+# =======
+# nav: false
+# >>>>>>> Stashed changes
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
