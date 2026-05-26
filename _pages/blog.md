@@ -3,13 +3,13 @@ layout: default
 permalink: /blog/
 title: blog
 #<<<<<<< Updated upstream
-nav: false 
+nav: false
 # =======
 # nav: true #true
 #>>>>>>> Stashed changes
 nav_order: 1
 pagination:
-  enabled: true  #true
+  enabled: true #true
   collection: posts
   permalink: /page/:num/
   per_page: 5
