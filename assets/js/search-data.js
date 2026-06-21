@@ -384,7 +384,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-paper-has-been-accepted-by-aaai-2026",
+            },},{id: "news-one-paper-has-been-accepted-by-tvcg-2025",
+          title: 'One paper has been accepted by TVCG 2025.',
+          description: "",
+          section: "News",},{id: "news-one-paper-has-been-accepted-by-aaai-2026",
           title: 'One paper has been accepted by AAAI 2026.',
           description: "",
           section: "News",},{id: "news-my-master-s-thesis-was-awarded-the-excellent-master-s-thesis-of-hunan-province-2025-sparkles-smile",
