@@ -26,6 +26,14 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD student at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/), privileged to be supervised by Dr.[Hongyang Chen](https://scholar.google.com/citations?user=s-HDT8UAAAAJ&hl=en) and Prof.[Gang Chen](https://person.zju.edu.cn/en/0098112). My research lies at the intersection of Geometric Deep Learning and 3D Computer Vision, with a particular emphasis on the spectral analysis of non-rigid shapes.
+I am a final-year PhD student at School of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english/), privileged to be supervised by Dr.[Hongyang Chen](https://scholar.google.com/citations?user=s-HDT8UAAAAJ&hl=en) and Prof.[Gang Chen](https://person.zju.edu.cn/en/0098112). My research lies at the intersection of Geometric Deep Learning and 3D Vision, with a particular emphasis on the spectral analysis of non-rigid shapes.
 
-Currently, my research trajectory is evolving toward the frontiers of 3D AIGC, World Models, and Vision-Language Models (VLMs). I am particularly passionate about bridging multi-modal language priors with intrinsic geometric structures. By leveraging the unique strengths of spectral methods in maintaining geometric consistency, I aim to develop generative frameworks and VLMs that achieve superior structural integrity in high-fidelity 3D content synthesis and robust environmental simulations.
+Currently, my research trajectory is evolving toward the following topics:  
+
+* World Model/ World Action Model
+* 3D AIGC
+
+I am particularly passionate about bridging multi-modal language priors with intrinsic geometric structures. By leveraging the unique strengths of spectral methods in maintaining geometric consistency, I aim to develop generative frameworks and MW/WAM that achieve superior structural integrity in high-fidelity 3D content synthesis and robust environmental simulations.
+
+
+**Note**: I am actively looking for collaborators. If you find my research interesting, welcome to contact me via [email](luoff@zju.edu.cn)!
