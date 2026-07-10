@@ -31,9 +31,9 @@ I am a final-year PhD student at School of Computer Science, [Zhejiang Universit
 Currently, my research trajectory is evolving toward the following topics:  
 
 * World Model/ World Action Model
-* 3D AIGC
+* Generative AI (3D assets, Videos)
 
 I am particularly passionate about bridging multi-modal language priors with intrinsic geometric structures. By leveraging the unique strengths of spectral methods in maintaining geometric consistency, I aim to develop generative frameworks and MW/WAM that achieve superior structural integrity in high-fidelity 3D content synthesis and robust environmental simulations.
 
 
-**Note**: I am actively looking for collaborators. If you find my research interesting, welcome to contact me via [email](luoff@zju.edu.cn)!
+**Note**: I am actively looking for collaborators. If you find my research interesting, welcome to contact me via email!
