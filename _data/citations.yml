@@ -1,31 +1,31 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-27'
 papers:
   iCOpMr0AAAAJ:5nxA0vEk-isC:
     citations: 0
-    title: Unsupervised Contrastive Learning for Efficient and Robust Spectral Shape Matching
+    title: Unsupervised contrastive learning for efficient and robust spectral shape matching
     year: '2026'
   iCOpMr0AAAAJ:KlAtU1dfN6UC:
     citations: 1
     title: 'From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching'
     year: '2026'
-  iCOpMr0AAAAJ:Se3iqnhoufwC:
-    citations: 1
-    title: Deep Frequency-Aware Functional Maps for Robust Shape Matching
-    year: '2024'
   iCOpMr0AAAAJ:UebtZRa9Y70C:
-    citations: 7
+    citations: 8
     title: Deep Frequency Awareness Functional Maps for Robust Shape Matching
     year: '2025'
   iCOpMr0AAAAJ:Y0pCki6q_DkC:
-    citations: 11
-    title: 'AWEDD: a descriptor simultaneously encoding multiscale extrinsic and intrinsic shape features.'
+    citations: 13
+    title: 'AWEDD: a descriptor simultaneously encoding multiscale extrinsic and intrinsic shape features'
     year: '2024'
+  iCOpMr0AAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: 'Coarse-to-Fine: A Hybrid Self-Supervised Method for Non-rigid 3D Shape Matching'
+    year: '2026'
   iCOpMr0AAAAJ:_FxGoFyzp5QC:
-    citations: 10
+    citations: 12
     title: 'Spectral descriptors for 3d deformable shape matching: A comparative survey'
     year: '2024'
   iCOpMr0AAAAJ:roLk4NBRz8UC:
-    citations: 5
+    citations: 6
     title: Deformable shape matching with multiple complex spectral filter operator preservation.
     year: '2024'
